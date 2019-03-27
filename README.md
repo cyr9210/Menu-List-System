@@ -1,3 +1,5 @@
+블로그 : https://cyr9210.github.io/2018/11/23/Project/MenuList-System/
+
 # Menu List_System
 
 프로젝트 주제 선정 중 점심시간이 되었고, 본 건물 지하 ‘밥뜨랑’ 에서 식사하러 가던 중 메뉴에 대한 이야기를 하다가 고안하게 되었습니다.
